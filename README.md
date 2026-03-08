@@ -69,7 +69,7 @@ I'm a software engineer and project manager based in **Cairo, Egypt** with a dua
 ### 🏥 [Medicare App](https://github.com/andrewalfred99)
 A comprehensive cross-platform healthcare app built with **Flutter & Dart**, featuring AI-powered early detection of heart conditions, cardiovascular risk evaluation, medication reminders, and a telehealth system for remote consultations.
 
-### 📚 [Pharaoh Books](https://github.com/andrewalfred99/PharohBook)
+### 📚 [Pharaoh Books](https://github.com/andrewalfred99/PharohBook) · [🌐 Live Demo](https://pharaohbooks-gve5c3bqcmh8cnbq.francecentral-01.azurewebsites.net/)
 A full-featured e-commerce platform for book sales built with **C# & ASP.NET Core**. Includes a ML-powered recommendation engine, multi-vendor support, Stripe/PayPal integration, dynamic pricing, and a responsive React + Tailwind frontend.
 
 ### 🧠 [Quiz App & Website](https://github.com/andrewalfred99/Quiz-Game)
@@ -88,6 +88,21 @@ A .NET Core & Razor Pages platform built during the pandemic to digitize thesis 
 | ⚙️ Software Engineer | iotblue | Jun – Oct 2023 |
 | 🔐 ERP Developer | Audio Technology | Jun – Oct 2022 |
 | 🎓 Software Engineer | Tomsk State University | Sep 2021 – Jun 2022 |
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewalfred99/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewalfred99@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewalfred99)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201033222864)
+
+</div>
+
+> Feel free to reach out for collaboration, freelance work, or just a tech chat!
 
 ---
 
